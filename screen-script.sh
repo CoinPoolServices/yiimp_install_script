@@ -1,5 +1,5 @@
 #!/bin/bash
- LOG_DIR=/var/log/yiimp
+ LOG_DIR=/var/log
  WEB_DIR=/var/web
  STRATUM_DIR=/var/stratum
  USR_BIN=/usr/bin
